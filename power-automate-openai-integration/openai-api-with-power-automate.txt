@@ -11,7 +11,8 @@ Method: POST
 
 Headers:
 Key:Authorization, Value:Bearer {YourApiKey}
-
+or
+Authorization: Bearer {YourApiKey}
 ---
 
 Body:
